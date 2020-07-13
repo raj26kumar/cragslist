@@ -15,6 +15,8 @@ image_url = 'https://images.craigslist.org/{}_300x300.jpg'
 def home(request):
     return render(request, "base.html")
 
+def hello():
+    return requests("hello")
 
 def new_search(request):
     search = request.POST.get('search')
