@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="381551e8-d2c9-4a2e-934c-b5f11dd1903f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/raj26kumar/crags-list.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eS4ObgJhatITpluRfmpsJE4t8L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\New folder\phyton\pythonpractice\djago\projectA\crag_app\mysite\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.views">
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/c_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/c_list/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/c_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/c_list/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.urls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="26" key="#Inspections" timestamp="1594303030891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="305" y="26" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1594303030891" />
+    <state x="396" y="3" key="#Python" timestamp="1594302315339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="396" y="3" key="#Python/0.0.1366.728@0.0.1366.728" timestamp="1594302315339" />
+    <state width="1339" height="175" key="GridCell.Tab.0.bottom" timestamp="1594660331868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594660331868" />
+    <state width="1339" height="175" key="GridCell.Tab.0.center" timestamp="1594660331867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594660331867" />
+    <state width="1339" height="175" key="GridCell.Tab.0.left" timestamp="1594660331866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594660331866" />
+    <state width="1339" height="175" key="GridCell.Tab.0.right" timestamp="1594660331867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594660331867" />
+    <state x="74" y="0" key="SettingsEditor" timestamp="1594660326271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="74" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594660326271" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mysite/settings.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
