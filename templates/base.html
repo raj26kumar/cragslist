@@ -23,7 +23,7 @@
     <!-- got this nav bar from materialize website and made some-edits -->
     <nav style="background : rgb(128, 191, 255)">
         <div class=" container nav-wrapper">
-            <a href="{% url 'home' %}" class="brand-logo"> CRAGS-LIST </a>
+            <a href="{% url 'home' %}" class="brand-logo"> CRAIGS-LIST </a>
             <ul id="nav-mobile" class="right">
                 <li><a href="{% url 'home' %}">Home</a></li>
             </ul>
@@ -61,7 +61,7 @@
                 <div class="center">
 
                     <i class="large material-icons dp48" style="color : rgb(138, 0, 230)">view_quilt</i>
-                    <p> A much better interface for Crags-list. </p>
+                    <p> A much better interface for Craigs-list. </p>
                     <p class="light center">💁‍♂️💁‍♂️🤷‍♂️‍</p>
                 </div>
             </div>
@@ -78,7 +78,13 @@
                  </form>
             </div>
 
-
+        <div>
+        {% if messages %}
+            {% for message in messages %}
+                <h5 style="color : rgb(138, 0, 230)"> {{ message }} </h5>
+            {% endfor %}
+        {% endif %}
+        </div>
     {% block content %}
 
     {% endblock content%}
