@@ -18,12 +18,6 @@ def home(request):
     return render(request, "base.html")
 
 
-class SearchForm(forms.Form):
-    search = forms.CharField()
-
-
-
-
 def new_search(request):
 
     search = request.POST.get('search')
